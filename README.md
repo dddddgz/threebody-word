@@ -16,8 +16,6 @@ pip install rich wordcloud jieba
 
 ***Windows 系统***如果遇到日志形式输出存在格式问题，建议使用 Windows Terminal 打开（Windows 11 自带，Windows 10 可以去 Microsoft Store 或 Bing 搜索找到）
 
-> [点我直接打开 Microsoft Store 页面](ms-windows-store://pdp/?ProductId=9N0DX20HK701)
-
 > Windows Terminal 启动方式：Win+R，输入 `wt`（暂不支持在 `explorer.exe` 里指定目录打开，不过右键单击文件夹会有“在终端中打开”选项。
 
 > 原生 cmd.exe、powershell.exe、VSCode 终端经测试均有可能出现问题，请使用 Windows Terminal
