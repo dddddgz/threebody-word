@@ -5,3 +5,9 @@
 绘制好的图片是工作目录下的 `result.png`。
 
 欢迎前往鱼C论坛支持 -> [传送门](https://fishc.com.cn/thread-230707-1-1.html)
+
+<i>**更新：使用准备**</i>
+
+```
+pip install rich wordcloud jieba
+```
